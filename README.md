@@ -1,83 +1,48 @@
 <div align="center">
 
-# **mwahh.xyz**
+# **[mwahh.xyz](https://mwahh.xyz)**
 
-**My website, made in *CSS, HTML, & JavaScript***
-
-[mwahh.xyz](https://mwahh.xyz)
-
-<img width="142" height="52" alt="Preview" src="https://github.com/user-attachments/assets/41c4521b-f0f5-4c54-9ac3-f1a7772e111c" />
-
+*my websitee :P*
 
 </div>
 
----
-
-## About
-
-A small personal bio page with links to my socials, background music and a wave made in **CSS**.
-
-The entire website is open source. All the code lives in this repository.
-
 
 ---
 
 
-## ✨ Features
+<h2> about </h2>
 
-- 🎵 **Background music** — a looping playlist that plays a random track on every time the page loads.  
-- 🚪 **Enter screen** — browsers block sound until the visitor interacts with the page, so a click-to-enter screen starts the music (stolen from guns.lol lmao).
-- 🌊 **Wave** — a **CSS** wave along the bottom of the page.
-- 🎨 **Color palette** — the whole palette is at the top of `style.css`, as variables.
-- 🔗 **Social links** — buttons that redirect to my socials, icons come from [Iconify](https://iconify.design/).
-- 🔤 **Font** — [DynaPuff](https://fonts.google.com/specimen/DynaPuff) from Google Fonts.
-
+- i made this website to get the hang html and css before actually learning it (or any programing language). i'll be trying to learn from this, so i can make this website better, and learn more about web development in general.
+- this website was built with "assistance" / learning of ai (NOT built by ai), and my friend [**thom**](#credits), who was the person who got me into html n css, and made the script for for the music player. 
+ 
 
 ---
 
 
-## 📁 Project structure
+<h2> structure of the repo </h2>
 
 ```text
 /
-├── index.html           # page structure
-├── style.css            # colors, layout, wave, and effects
-├── script.js            # enter screen and music playlist
+├── index.html
+├── style.css
+├── script.js            # music player script
 ├── site.webmanifest
 ├── favicon.ico
 │
-├── sounds/
-│   ├── sounds.json      # list of songs
-│   └── *.mp3            # the songs
+├── sounds/              # music folder
+│   ├── sounds.json
+│   └── *.mp3
 │
-└── src/
-    ├── images/          # avatar and enter-screen image
-    └── icon/            # favicons and app icons
+└── src/                 # images
+    ├── images/
+    └── icon/
 ```
 
 
 ---
 
 
-## 🎵 Music
+<h2> credits </h2>
 
-All the music on this website is made by **Tsundere Twintails**.
-
-| Track | Source |
-|---|---|
-| A Letter | [YouTube](https://www.youtube.com/watch?v=vUeagg6iJxk) |
-| Cute Circus | [YouTube](https://www.youtube.com/watch?v=kr4dM4D_Oac) |
-| Head Empty | [YouTube](https://www.youtube.com/watch?v=rHj1KsAuIbo) |
-| Parfait | [YouTube](https://www.youtube.com/watch?v=tn7KAZX6Kxs) |
-| Seashells | [YouTube](https://www.youtube.com/watch?v=l1bkQjRCVIg) |
-
-
----
-
-
-## 🙏 Credits
-
-- Music — all tracks are listed and credited in [Music](#-music) above.
-- Icons — [Iconify](https://iconify.design/)
-- Font — [DynaPuff](https://fonts.google.com/specimen/DynaPuff), Google Fonts
-- My friend [Thom](https://github.com/thunifish) helped develop the website, most of the styling came from his website [thuni.fish](https://www.thuni.fish).
+- all the music in my website is produced by [*tsundere twintails*](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY)
+- my friend [*thom*](https://github.com/thunifish) helped develop the website, most of the styling came from his website [*thuni.fish*](https://www.thuni.fish).
