@@ -2,13 +2,25 @@
 @import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap");
 
 :root {
-  --ink: #36425e;
-  --muted: #6c7885;
-  --paper: #f5f9ff;
-  --line: #d6deea;
-  --accent: #86a6ef;
-  --card: #fafcff;
-  --card-hover: #edf4ff;
+  --ink: #3f3562;
+  --muted: #7b7399;
+  --paper: #f8f5ff;
+  --line: #ded4f7;
+  --accent: #9775fa;
+  --accent-strong: #7f5ce6;
+  --card: #fbf9ff;
+  --card-hover: #f1eaff;
+  --accent-soft: #e6dcff;
+  --bg: #f6f2ff;
+  --art-image: url("src/images/bg-img.webp");
+  --art-opacity: 0.6;
+  --box-bg: rgb(251 249 255 / 93%);
+  --shadow: rgb(63 53 98 / 30%);
+  --overlay: rgb(248 245 255 / 35%);
+  --footer: #b4a3e0;
+  --cloud-fill: #efe9ff;
+  --cloud-line: #9775fa;
+  color-scheme: light;
 }
 
 * {
