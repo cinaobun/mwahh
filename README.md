@@ -42,7 +42,7 @@
 ---
 
 
-<h2> credits </h2>
+<h2 id="credits"> credits </h2>
 
 - all the music in my website is produced by [*tsundere twintails*](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY)
 - my friend [*thom*](https://github.com/thunifish) helped develop the website, most of the styling came from his website [*thuni.fish*](https://www.thuni.fish).
