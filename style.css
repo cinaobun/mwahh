@@ -134,6 +134,11 @@ footer {
   margin-top: 1rem;
 }
 
+.flag-pan {
+  margin-left: 0.8rem;
+  margin-bottom: 0.3rem;
+}
+
 .site-name {
   margin: 0;
   font-size: 0.87rem;
