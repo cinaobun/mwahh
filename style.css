@@ -142,7 +142,7 @@ footer {
 .site-name {
   margin: 0;
   font-size: 0.87rem;
-  color: color: var(--footer);
+  color: var(--footer);
 }
 
 button {
